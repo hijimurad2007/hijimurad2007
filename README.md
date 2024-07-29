@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hijimurad2007
+- 👋 Hi, I’m @hojimurad2007
 - 👀 I’m interested in programming and Ai
 - 🌱 I’m currently learning .net
 - 💞️ I’m looking to collaborate on .net developer
